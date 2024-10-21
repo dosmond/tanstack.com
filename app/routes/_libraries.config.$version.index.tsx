@@ -117,7 +117,7 @@ export default function FormVersionIndex() {
           <div className="flex gap-2 lg:gap-4 items-center">
             <h1
               className={`inline-block
-            font-black text-4xl
+            font-black text-4xl leading-snug
             md:text-6xl
             lg:text-7xl`}
               style={{

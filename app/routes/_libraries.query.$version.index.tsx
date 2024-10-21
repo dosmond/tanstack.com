@@ -131,7 +131,7 @@ export default function VersionIndex() {
             <div className="flex gap-2 lg:gap-4 items-center">
               <h1
                 className={`inline-block
-            font-black text-4xl
+            font-black text-4xl leading-snug
             md:text-6xl
             lg:text-7xl`}
                 style={{
@@ -303,6 +303,7 @@ export default function VersionIndex() {
                   href="https://query.gg?s=tanstack"
                   target="_blank"
                   className={`inline-block py-2 px-4 bg-red-500 rounded text-white uppercase font-extrabold`}
+                  rel="noreferrer"
                 >
                   Get the course
                 </a>

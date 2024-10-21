@@ -125,7 +125,7 @@ export default function VersionIndex() {
         <div className="flex flex-col items-center gap-6 text-center px-4">
           <h1
             className={`inline-block
-            font-black text-4xl
+            font-black text-4xl leading-snug
             md:text-6xl
             lg:text-7xl`}
             style={{
